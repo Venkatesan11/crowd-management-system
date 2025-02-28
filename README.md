@@ -11,5 +11,5 @@ This project implements a **Crowd Flow Monitoring System** using a **CNN + LSTM*
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/crowd-management-system.git
+   git clone https://github.com/Venkatesan11/crowd-management-system.git
    cd crowd-management-system
